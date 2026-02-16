@@ -1,7 +1,7 @@
 # DSA Daily Practice
 I'm solving Data structures and algorithms problem daily...
 
-##Trees
+## Trees
 | problem | Approach|Status |
 |-------- | ------- |------ |
 |Iterative Preorder Traversal | Using Stack|✅ |
