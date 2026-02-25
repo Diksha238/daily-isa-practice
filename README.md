@@ -10,4 +10,4 @@ I'm solving Data structures and algorithms problem daily...
 |maxDepth using recursion | Using Recursion |✅ |
 |Balanced binary tree | Using recursion |✅|
 |Diamter of Binary tree | Using recursion |✅|
-
+|Maximun Path Sum | Using recursion |✅|
