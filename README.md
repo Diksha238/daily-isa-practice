@@ -14,3 +14,4 @@ I'm solving Data structures and algorithms problem daily...
 |If Two Trees are Identical| Using Recursion|✅
 | Zig Zag Traversal | Using Queue and flag | ✅|
 |Vertical order Traversal |Using Queue and TreeMap|✅|
+|Tree is Symmetrical or not|using recursion |✅|
